@@ -86,3 +86,20 @@ Each selected dessert from the Desserts menu is added to the cart and the total 
 ![Pizza Donadoni Screenshot](screenshots/desserts-order.png)
 
 <br><br>
+
+
+
+
+
+
+
+
+## BEVERAGES ORDER
+
+Each selected beverage from the Beverages menu is added to the cart and the total price is calculated automatically.
+
+<br>
+
+![Pizza Donadoni Screenshot](screenshots/beverages-order.png)
+
+<br><br>
