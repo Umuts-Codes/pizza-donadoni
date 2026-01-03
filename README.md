@@ -1,6 +1,6 @@
 # PIZZA DONADONI HOME PAGE
 
-This website represents an online ordering platform for a pizza restaurant. Users can create an account, log in with their credentials, and place orders through the system.
+This website represents an online ordering platform for a pizza restaurant. Users can create an account log in with their credentials and place orders through the system.
 
 
 <br>
@@ -14,7 +14,7 @@ This website represents an online ordering platform for a pizza restaurant. User
 
 ## CREATE ACCOUNT
 
-First, users create an account to introduce themselves on the Pizza Donadoni restaurant’s online ordering website.
+First users create an account to introduce themselves on the Pizza Donadoni restaurant’s online ordering website.
 
 <br>
 
@@ -29,10 +29,27 @@ First, users create an account to introduce themselves on the Pizza Donadoni res
 
 ## LOGIN
 
-After creating an account, users can log in to the website using the registered email address and password.
+After creating an account users can log in to the website using the registered email address and password.
 
 <br>
 
 ![Pizza Donadoni Screenshot](screenshots/login.png)
 
 <br><br>
+
+
+
+
+
+
+
+## PIZZA ORDER
+
+Each selected pizza from the Pizza menu is added to the cart and the total price is calculated automatically.
+
+<br>
+
+![Pizza Donadoni Screenshot](screenshots/pizza-order.png)
+
+<br><br>
+
