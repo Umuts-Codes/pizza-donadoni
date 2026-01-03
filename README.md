@@ -115,7 +115,7 @@ Each selected beverage from the Beverages menu is added to the cart and the tota
 
 ## APPROVE ORDER
 
-In the cart section users can add items from the menus without any limit view the listed prices and see the total payment amount calculated automatically.
+In the cart section users can add items from the menus without any limit view the listed prices and see the total payment amount calculated automatically. By clicking the orange “X” icon next to an item’s price the product can be removed from the cart.
 
 <br>
 
