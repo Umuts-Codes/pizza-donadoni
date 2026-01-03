@@ -53,3 +53,19 @@ Each selected pizza from the Pizza menu is added to the cart and the total price
 
 <br><br>
 
+
+
+
+
+
+
+
+## APPETIZERS ORDER
+
+Each selected item from the Appetizers menu is added to the cart, and the total price is calculated automatically.
+
+<br>
+
+![Pizza Donadoni Screenshot](screenshots/appetizers-order.png)
+
+<br><br>
