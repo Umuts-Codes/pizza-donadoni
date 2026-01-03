@@ -21,3 +21,18 @@ First, users create an account to introduce themselves on the Pizza Donadoni res
 ![Pizza Donadoni Screenshot](screenshots/create-account.png)
 
 <br><br>
+
+
+
+
+
+
+## LOGIN
+
+After creating an account, users can log in to the website using the registered email address and password.
+
+<br>
+
+![Pizza Donadoni Screenshot](screenshots/login.png)
+
+<br><br>
