@@ -103,3 +103,22 @@ Each selected beverage from the Beverages menu is added to the cart and the tota
 ![Pizza Donadoni Screenshot](screenshots/beverages-order.png)
 
 <br><br>
+
+
+
+
+
+
+
+
+
+
+## APPROVE ORDER
+
+In the cart section users can add items from the menus without any limit view the listed prices and see the total payment amount calculated automatically.
+
+<br>
+
+![Pizza Donadoni Screenshot](screenshots/approve-order.png)
+
+<br><br>
