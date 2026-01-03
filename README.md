@@ -16,6 +16,8 @@ This website represents an online ordering platform for a pizza restaurant. User
 
 First, users create an account to introduce themselves on the Pizza Donadoni restaurant’s online ordering website.
 
+<br>
+
+![Pizza Donadoni Screenshot](screenshots/create-account.png)
+
 <br><br>
-
-
